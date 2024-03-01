@@ -1,0 +1,8 @@
+# 规则名称:MisakaF-Emby 第三方服
+# 规则统计:4
+
+DOMAIN,stream1.misakaf.org
+DOMAIN,stream2.misakaf.org
+DOMAIN,stream3.misakaf.org
+DOMAIN,stream4.misakaf.org
+
