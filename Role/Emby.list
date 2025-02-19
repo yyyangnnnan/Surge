@@ -16,3 +16,6 @@ DOMAIN,emby-mica-yxvm-hk-v4.mius.uk
 DOMAIN,emby-mica-hk3-v4.mius.uk
 #探花TV
 DOMAIN-SUFFIX,tanhuatv.site
+#垃圾服
+IP-CIDR,45.142.176.135/32
+
